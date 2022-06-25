@@ -1,5 +1,6 @@
 Réalisé sur Python 3.7.4
 
+
 Dans le fichier "BinPacking_XFit_start_to_code.py", nous avons codé 7 heuristiques de résolutions du BPP :
 -	Next Fit
 -	First Fit
